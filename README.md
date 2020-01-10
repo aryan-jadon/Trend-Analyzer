@@ -1,4 +1,5 @@
 # Trend-Analyzer
 
-Trend Analyzer of USA , UK and India using pytrend 
-Store information of lat and long in excel files along with population coordinates 
+Trend Analyzer of Keyword 
+
+![alt text](https://raw.githubusercontent.com/aryan-jadon/Trend-Analyzer/blob/master/ModuleFiles/Images/Black-Background.png)
