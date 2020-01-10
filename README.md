@@ -21,12 +21,10 @@ pip install -r requirements.txt
 > Pass the Keyword to the function
 
 ```python
-
-// code away!
 find_US_Trend("australia fire")
 ```
 
-```
+```python
 plot_trend("australia fire")
 ```
 > Run the program through command line terminal
@@ -42,4 +40,6 @@ python Metro-Cities-Trend.py
 
 ## License
 
-This project is licensed under the MIT License 
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
