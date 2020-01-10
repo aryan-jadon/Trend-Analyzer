@@ -23,7 +23,6 @@ pip install -r requirements.txt
 ```python
 
 // code away!
-```
 find_US_Trend("australia fire")
 ```
 
